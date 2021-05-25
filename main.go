@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/redheatwei/video-srt"
+	"github.com/redheatwei/video-srt/videosrt"
 	"log"
 	"os"
 	"path/filepath"
